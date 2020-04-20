@@ -1,0 +1,21 @@
+.slide-texto{
+    position: absolute;
+    color: #1E5494;
+    top:35%;
+    left:10%;
+}
+
+.slide-h5__title{
+     font-family: Montserrat-Medium; 
+   }
+.slide-h2__body{
+    font-family: Montserrat-Bold;
+}
+.texto-proyectos__title{
+    font-family: Montserrat-SemiBold;
+    color:#1E5494;
+}
+.texto-proyectos__cuerpo{
+    font-family: Montserrat-SemiBold;
+    color: #505050;
+}

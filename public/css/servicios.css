@@ -1,0 +1,44 @@
+div.vertical-line{
+    width: 1px;
+    background-color: #e1e1e1; 
+    height: 600px;
+    margin-left: 90%;
+    position: absolute;
+    z-index: -1;
+    top:5px;
+  }
+  div.vertical-line__der{
+    width: 1px;
+    background-color: #e1e1e1; 
+    height: 600px;
+    margin-left: 80%;
+    position: absolute;
+    z-index: -1;
+    top:5px;
+  }
+.icon-hammer{
+    margin-top: 160px;
+}
+.icon-chart{
+    margin-top: 220px;
+}
+.icon-tools{
+    margin-top: 170px;
+}
+.fa-circle{
+    color: #1E5494;
+}
+.title{
+    color: #1E5494;
+}
+.area-titulo{
+    color: #1E5494;
+    font-family: Montserrat-SemiBold;
+    font-size: 1.5em;
+}
+.texto-area-proyecto{
+    font-family: Montserrat-SemiBold;
+    color: #505050;
+    font-size: 1em;
+    line-height:1.5em;
+}

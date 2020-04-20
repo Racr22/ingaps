@@ -1,0 +1,256 @@
+.img-logo{
+    height: 120px;
+    width: 150px;
+    /* margin-left: 50px;
+    margin-right: 50px; */
+    
+}
+/* .navbar-nav__menuizq{
+     padding-left: 10%;
+     margin-top: 100px;
+}
+.navbar-nav__menuizq li{
+    padding-left: 20px;
+    margin-right: 1em;
+}
+
+.navbar-nav__menuder{
+    margin-top: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+}   
+.navbar-nav__menuder li{
+    padding-right:20px;
+    margin-right: 1em;
+} */
+.navbar-light .navbar-nav .active>.nav-link  {
+    color: #1E5494;
+    font-family: Montserrat-SemiBold; 
+    border-bottom: #1E5494 solid 3px;
+     padding-bottom: 15px; 
+   }
+@font-face{
+    font-family: Montserrat-Black;
+    src: url('Tipografia/Montserrat-Black.ttf');
+}
+@font-face{
+    font-family: Montserrat-BlackItalic;
+    src: url('Tipografia/Montserrat-BlackItalic.ttf');
+}
+@font-face{
+    font-family: Montserrat-Bold;
+    src: url('Tipografia/Montserrat-Bold.ttf');
+}
+@font-face{
+    font-family: Montserrat-BoldItalic;
+    src: url('Tipografia/Montserrat-BoldItalic.ttf');
+}
+@font-face{
+    font-family: Montserrat-ExtraBold;
+    src: url('Tipografia/Montserrat-ExtraBold.ttf');
+}
+@font-face{
+    font-family: Montserrat-ExtraBoldItalic;
+    src: url('Tipografia/Montserrat-ExtraBoldItalic.ttf');
+}
+@font-face{
+    font-family: Montserrat-ExtraLight;
+    src: url('Tipografia/Montserrat-ExtraLight.ttf');
+}
+@font-face{
+    font-family: Montserrat-ExtraLightItalic;
+    src: url('Tipografia/Montserrat-ExtraLightItalic.ttf');
+}
+@font-face{
+    font-family: Montserrat-HairLine;
+    src: url('Tipografia/Montserrat-Hairline.otf');
+}
+@font-face{
+    font-family: Montserrat-Light;
+    src: url('Tipografia/Montserrat-Light.ttf');
+}
+@font-face{
+     font-family: Montserrat-LightItalic;
+    src: url('Tipografia/Montserrat-LightItalic.ttf');
+}
+@font-face{
+    font-family: Montserrat-Medium;
+    src: url('Tipografia/Montserrat-Medium.ttf');
+}
+@font-face{
+    
+    font-family: Montserrat-MediumItalic;
+    src: url('Tipografia/Montserrat-MediumItalic.ttf');
+}
+@font-face{
+    font-family: Montserrat-Regular;
+    src: url('Tipografia/Montserrat-Regular.otf');
+}
+@font-face{
+     font-family: Montserrat-RegularItalic;
+    src: url('Tipografia/Montserrat-RegularItalic.ttf');
+}
+@font-face{
+   font-family: Montserrat-SemiBold;
+    src: url('Tipografia/Montserrat-SemiBold.ttf'); 
+}
+@font-face{
+    font-family: Montserrat-SemiBoldItalic;
+    src: url('Tipografia/Montserrat-SemiBoldItalic.ttf');
+}
+@font-face{
+    font-family: Montserrat-Thin;
+    src: url('Tipografia/Montserrat-Thin.ttf');
+}
+@font-face{
+    font-family: Montserrat-ThinItalic;
+    src: url('Tipografia/Montserrat-ThinItalic.ttf');
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#1E5494;
+}
+.nav-link {
+    font-family: Montserrat-SemiBold;
+    font-size: 0.95em;
+    
+}
+.slide-titulo{
+   letter-spacing: 2px;
+}
+.slide-subtitulo{
+    font-family: Montserrat-Bold;
+    text-shadow: 2px 2px 2px black;
+    font-size:3em;
+   
+}
+.car1{
+    position: relative;
+    z-index: 0;
+}
+/* .home-img{
+    position: absolute;
+    z-index: 10;
+    top:325px;
+    left: 90px;   
+    padding-bottom: 50px;
+} */
+.img-p__img1{
+ z-index: 20;
+ position: absolute;
+ top:20px;
+ color: white;
+ left:20px;
+}
+.img-p__img2{
+    z-index: 20;
+ position: absolute;
+ top:25px;
+ color: white;
+ left:50px;
+}
+.img-p__span1{
+    font-size: 2em;
+    font-family: Montserrat-Bold;
+}
+.img-p__texto{
+    font-size: 1em;
+    font-family: Montserrat-Medium;
+}
+.main-img__imgizq{
+    left: -2em;
+    bottom:6em;
+}
+.main-img__imgder{
+    bottom:6em;
+}
+.img2-p__span1{
+    font-size: 2em;
+    font-family: Montserrat-Bold;
+}
+.img2-p__texto{
+    font-size: 1em;
+    font-family: Montserrat-Medium;
+}
+.proyectos-title{
+   color: #1E5494;
+}
+.proyecto-numeros{
+    color: #1E5494;
+}
+
+/* .fa-stack{
+    margin-top: 2em;
+} */
+.linea{
+    background-color: #D1D1D1;
+    height: 1px;
+    position: relative;
+    width: 900px;
+   top: 20px;
+    left: 2%;
+}
+.fa-chevron-right{
+    color: #B7B7B7;
+}
+.proyecto-texto{
+    font-family: Montserrat-Medium;
+    color: #505050;
+    font-size: 1.2em;
+}
+.descripcion{
+    margin-bottom: 100px;
+}
+.horizontal-line{
+    height: 100px;
+    background-color: black; 
+    width: 600px;
+    margin-left: 80%;
+    position: absolute;
+    z-index: 3;
+    top:20%
+}
+.proyectos-title{
+    position: relative;
+}
+.ofrecemos-text__izq{
+    font-family: Montserrat-Medium;
+    color: #1E5494;
+}
+.ofrecemos-text__der{
+    font-family: Montserrat-SemiBold;
+    color: #505050;
+}
+.ofrecemos-text-resaltado{
+    color: #1E5494;
+}
+.footer-icon{
+    color: #1E5494;
+}
+.descripcion-icon__item{
+    color: #1E5494;
+}
+.descripcion-title{
+    color: #1E5494;
+    font-family: Montserrat-Light;
+}
+.descripcion-p_text{
+    font-family: Montserrat-SemiBold;
+    color: #505050;
+    text-justify: auto;
+}
+.footer{
+    font-family: Montserrat-Regular;
+    color: #505050;
+    font-size: 0.9em;
+}
+.button-proyectos{
+    background-color: #1E5494;
+    color: white;
+}
+.button-area{
+    color: #6E6F71;
+    font-family: Montserrat-Medium;
+    font-size: 0.8em;
+    padding-left: 20px;
+    padding-right: 20px;
+}

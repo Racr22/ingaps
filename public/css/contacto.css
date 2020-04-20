@@ -1,0 +1,44 @@
+.contacto-iconos{
+    color:#1E5494;
+}
+.titulo-contacto{
+    color:#1E5494;
+}
+.mail-contacto{
+    color:#1E5494;
+}
+.contacto-texto-form{
+    font-family: Montserrat-SemiBold; 
+    color: #505050;
+}
+.contacto-texto-form-label{
+    font-family: Montserrat-SemiBold; 
+    color: #505050;
+    font-size: 0.8em;
+}
+.form-control{
+    font-family: Montserrat-SemiBold; 
+    font-size: 0.7em;
+}
+.btn-enviar-consulta{
+    font-family: Montserrat-Medium; 
+    font-size: 0.8em;
+    color: white;
+    background-color: #1E5494;
+}
+.card-contacto{
+    /* -webkit-box-shadow: 3px 11px 0px 6px rgba(243,245,247,0.66);
+    -moz-box-shadow: 3px 11px 0px 6px rgba(243,245,247,0.66);
+    box-shadow: 3px 11px 0px 6px rgba(243,245,247,0.66); */
+    box-shadow: 0px 5px 20px 5px #F2F4F6;
+    
+border: none;
+}
+.card-text{
+    font-family: Montserrat-Medium;
+    color: #6E6F71;
+}
+.card-dato-contacto{
+    font-family: Montserrat-SemiBold;
+    color: #6E6F71;
+}

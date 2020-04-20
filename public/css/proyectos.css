@@ -1,0 +1,16 @@
+.etapas{
+    border: 2px solid green;
+}
+.proyectos-logos{
+    width: 75px;
+    height: 75px;
+}
+.proyecto-numeros{
+    color: #1E5494;
+}
+.proyecto-texto-inicial{
+    font-family: Montserrat-SemiBold;
+    color:#505050;
+    margin-top: 50px;
+    line-height: 1.7em;
+}
